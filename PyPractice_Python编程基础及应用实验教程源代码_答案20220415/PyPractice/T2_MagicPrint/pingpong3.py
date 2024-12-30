@@ -1,0 +1,10 @@
+import time 
+print("\033[33;44m",end="")
+print("\r▐⠂       ▌",end="")
+time.sleep(0.3)
+print("\r▐⠈       ▌",end="")
+time.sleep(0.3)
+print("\r▐ ⠂      ▌",end="")
+time.sleep(0.3)
+print("\r▐ ⠠      ▌",end="")
+print("\033[0m")

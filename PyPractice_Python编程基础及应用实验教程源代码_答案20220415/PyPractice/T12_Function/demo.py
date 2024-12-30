@@ -1,0 +1,1 @@
+score={"zhangsan":80,"李四":50,"wangwu":40}

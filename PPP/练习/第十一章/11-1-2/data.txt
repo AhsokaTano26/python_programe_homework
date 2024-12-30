@@ -1,0 +1,2 @@
+sno	sname	sage
+2	1	1	

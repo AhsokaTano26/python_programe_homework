@@ -1,0 +1,2 @@
+Write a program that counts the number of characters words
+and lines in a text file separated by Spaces

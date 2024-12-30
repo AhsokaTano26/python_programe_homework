@@ -1,0 +1,30 @@
+【问题描述】
+
+编写程序统计一个文本文件中的字符数，单词数以及行数，单词由空格分隔（假设没有标点符号）。
+
+【输入形式】
+
+文本文件text.txt
+
+【输出形式】
+
+字符数
+
+单词数
+
+行数
+【样例输入】
+
+文本文件text.txt
+
+Write a program that counts the number of characters words
+
+and lines in a text file separated by Spaces
+
+【样例输出】
+
+85
+
+19
+
+2

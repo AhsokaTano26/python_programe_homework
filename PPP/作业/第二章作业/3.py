@@ -1,0 +1,1 @@
+print("My favorite sports are as follows:\n\tfootball\n\ttable tennis\n\tbadminton\n\tswimming\n\trunning")

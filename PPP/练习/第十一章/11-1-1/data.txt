@@ -1,0 +1,2 @@
+sno   sname     sage
+1     zs        18
